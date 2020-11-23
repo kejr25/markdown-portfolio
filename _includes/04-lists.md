@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Hobbies
+  * Learning to code
+  * Woodworking
+  * Jogging
+  * Gardening
+  * Fishing
